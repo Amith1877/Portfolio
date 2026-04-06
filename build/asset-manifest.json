@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Tharun-575/FUTURE_FS_01.git/static/css/main.6afcec70.css",
+    "main.js": "/Tharun-575/FUTURE_FS_01.git/static/js/main.eea52843.js",
+    "static/js/453.a7d99afe.chunk.js": "/Tharun-575/FUTURE_FS_01.git/static/js/453.a7d99afe.chunk.js",
+    "static/media/Tharun_p.jpeg": "/Tharun-575/FUTURE_FS_01.git/static/media/Tharun_p.390969e6fa50ee243496.jpeg",
+    "index.html": "/Tharun-575/FUTURE_FS_01.git/index.html",
+    "main.6afcec70.css.map": "/Tharun-575/FUTURE_FS_01.git/static/css/main.6afcec70.css.map",
+    "main.eea52843.js.map": "/Tharun-575/FUTURE_FS_01.git/static/js/main.eea52843.js.map",
+    "453.a7d99afe.chunk.js.map": "/Tharun-575/FUTURE_FS_01.git/static/js/453.a7d99afe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afcec70.css",
+    "static/js/main.eea52843.js"
+  ]
+}
